@@ -1,0 +1,26 @@
+footer { 
+    margin: 1em;
+    position: fixed;
+    width: 100%; 
+    bottom: 0;
+    left: 0;   
+    text-align: center;
+}
+
+nav {
+    position: sticky;
+    top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 1.5rem 2rem;
+    background-color: #eaeaea;
+    text-transform: uppercase;
+  }
+
+
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+  }
+
